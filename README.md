@@ -1,3 +1,1 @@
-# AutomateSpotify
-
-## Automate adding song to Spotify
+# Automate adding song to Spotify
