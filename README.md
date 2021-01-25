@@ -1,1 +1,1 @@
-# Automate adding song to Spotify
+# Automate adding song to Spotify using Youtube API & Spotify API
